@@ -15,6 +15,12 @@ Currently, I am implementing and practicing **Linked List data structures**, and
   - Delete from Tail
   - Delete from Position
   - Traversal / Display
+  - Find Middle Of LinkedList
+  - Delete Middle Node of LinkedList.
+  - Reverse the Linked List.
+  - check If the Linked List is Pallindrome.
+  - Delete The Kth node From the End Of Linked List.
+    
 
 ---
 
