@@ -23,6 +23,7 @@ Currently, I am implementing and practicing **Linked List data structures**, and
   - Find the Intersecting Node between two Linked Lists.
   - Swapping Nodes In Linked List for Given K.(Values Swap).
   - Swapping The Nodes Pairs(Actual Nodes Swap).
+  - Merge two Sorted Linked Lists.
     
 
 ---
